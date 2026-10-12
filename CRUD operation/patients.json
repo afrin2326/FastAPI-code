@@ -1,0 +1,335 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "city": "Mumbai",
+      "age": 45,
+      "gender": "Male",
+      "height": 175,
+      "weight": 78,
+      "bmi": 25.5,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "city": "Ahmedabad",
+      "age": 32,
+      "gender": "Female",
+      "height": 162,
+      "weight": 55,
+      "bmi": 21.0,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "city": "Delhi",
+      "age": 58,
+      "gender": "Male",
+      "height": 170,
+      "weight": 85,
+      "bmi": 29.4,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Reddy",
+      "city": "Hyderabad",
+      "age": 28,
+      "gender": "Female",
+      "height": 165,
+      "weight": 68,
+      "bmi": 25.0,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "city": "Jaipur",
+      "age": 52,
+      "gender": "Male",
+      "height": 180,
+      "weight": 95,
+      "bmi": 29.3,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 6,
+      "name": "Anjali Gupta",
+      "city": "Lucknow",
+      "age": 35,
+      "gender": "Female",
+      "height": 158,
+      "weight": 72,
+      "bmi": 28.8,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 7,
+      "name": "Rajesh Kumar",
+      "city": "Patna",
+      "age": 62,
+      "gender": "Male",
+      "height": 168,
+      "weight": 82,
+      "bmi": 29.1,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 8,
+      "name": "Divya Nair",
+      "city": "Chennai",
+      "age": 41,
+      "gender": "Female",
+      "height": 170,
+      "weight": 75,
+      "bmi": 26.0,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 9,
+      "name": "Manish Joshi",
+      "city": "Pune",
+      "age": 37,
+      "gender": "Male",
+      "height": 182,
+      "weight": 88,
+      "bmi": 26.6,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 10,
+      "name": "Kavita Iyer",
+      "city": "Bengaluru",
+      "age": 29,
+      "gender": "Female",
+      "height": 160,
+      "weight": 52,
+      "bmi": 20.3,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 11,
+      "name": "Suresh Menon",
+      "city": "Kochi",
+      "age": 55,
+      "gender": "Male",
+      "height": 172,
+      "weight": 76,
+      "bmi": 25.7,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 12,
+      "name": "Neha Agarwal",
+      "city": "Nagpur",
+      "age": 33,
+      "gender": "Female",
+      "height": 163,
+      "weight": 58,
+      "bmi": 21.8,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 13,
+      "name": "Deepak Chauhan",
+      "city": "Agra",
+      "age": 47,
+      "gender": "Male",
+      "height": 176,
+      "weight": 92,
+      "bmi": 29.7,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 14,
+      "name": "Pooja Deshmukh",
+      "city": "Indore",
+      "age": 26,
+      "gender": "Female",
+      "height": 167,
+      "weight": 63,
+      "bmi": 22.6,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 15,
+      "name": "Arjun Nair",
+      "city": "Thiruvananthapuram",
+      "age": 68,
+      "gender": "Male",
+      "height": 165,
+      "weight": 70,
+      "bmi": 25.7,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 16,
+      "name": "Meera Krishnamurthy",
+      "city": "Coimbatore",
+      "age": 44,
+      "gender": "Female",
+      "height": 159,
+      "weight": 85,
+      "bmi": 33.6,
+      "verdict": "Obese"
+    },
+    {
+      "id": 17,
+      "name": "Rohit Sinha",
+      "city": "Ranchi",
+      "age": 31,
+      "gender": "Male",
+      "height": 178,
+      "weight": 74,
+      "bmi": 23.4,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 18,
+      "name": "Shweta Malhotra",
+      "city": "Chandigarh",
+      "age": 39,
+      "gender": "Female",
+      "height": 164,
+      "weight": 67,
+      "bmi": 24.9,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 19,
+      "name": "Vivek Bansal",
+      "city": "Ludhiana",
+      "age": 51,
+      "gender": "Male",
+      "height": 174,
+      "weight": 89,
+      "bmi": 29.4,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 20,
+      "name": "Anita Das",
+      "city": "Bhubaneswar",
+      "age": 48,
+      "gender": "Female",
+      "height": 161,
+      "weight": 78,
+      "bmi": 30.1,
+      "verdict": "Obese"
+    },
+    {
+      "id": 21,
+      "name": "Gaurav Thakur",
+      "city": "Shimla",
+      "age": 27,
+      "gender": "Male",
+      "height": 183,
+      "weight": 80,
+      "bmi": 23.9,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 22,
+      "name": "Ritu Rajput",
+      "city": "Bhopal",
+      "age": 34,
+      "gender": "Female",
+      "height": 166,
+      "weight": 71,
+      "bmi": 25.8,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 23,
+      "name": "Sanjay Mishra",
+      "city": "Varanasi",
+      "age": 59,
+      "gender": "Male",
+      "height": 169,
+      "weight": 94,
+      "bmi": 32.9,
+      "verdict": "Obese"
+    },
+    {
+      "id": 24,
+      "name": "Kiran Bedi",
+      "city": "Jalandhar",
+      "age": 42,
+      "gender": "Female",
+      "height": 171,
+      "weight": 69,
+      "bmi": 23.6,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 25,
+      "name": "Alok Srivastava",
+      "city": "Allahabad",
+      "age": 63,
+      "gender": "Male",
+      "height": 173,
+      "weight": 81,
+      "bmi": 27.1,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 26,
+      "name": "Swati Choudhary",
+      "city": "Jodhpur",
+      "age": 30,
+      "gender": "Female",
+      "height": 168,
+      "weight": 60,
+      "bmi": 21.3,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 27,
+      "name": "Pankaj Tripathi",
+      "city": "Gwalior",
+      "age": 49,
+      "gender": "Male",
+      "height": 177,
+      "weight": 96,
+      "bmi": 30.6,
+      "verdict": "Obese"
+    },
+    {
+      "id": 28,
+      "name": "Madhuri Dixit",
+      "city": "Nashik",
+      "age": 38,
+      "gender": "Female",
+      "height": 163,
+      "weight": 59,
+      "bmi": 22.2,
+      "verdict": "Normal weight"
+    },
+    {
+      "id": 29,
+      "name": "Harsh Vardhan",
+      "city": "Meerut",
+      "age": 54,
+      "gender": "Male",
+      "height": 181,
+      "weight": 93,
+      "bmi": 28.4,
+      "verdict": "Overweight"
+    },
+    {
+      "id": 30,
+      "name": "Nandita Sen",
+      "city": "Kolkata",
+      "age": 46,
+      "gender": "Female",
+      "height": 157,
+      "weight": 66,
+      "bmi": 26.8,
+      "verdict": "Overweight"
+    }
+       
+  ]
+}
